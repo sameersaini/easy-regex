@@ -1,0 +1,24 @@
+{
+  "name": "regex-easy",
+  "version": "1.0.1",
+  "description": "simple regular expression utility for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameersaini/easy-regex.git"
+  },
+  "author": "sameer saini <sameersaini40@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameersaini/easy-regex/issues"
+  },
+  "homepage": "https://github.com/sameersaini/easy-regex#readme",
+  "dependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
