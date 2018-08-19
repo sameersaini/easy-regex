@@ -1,3 +1,5 @@
+function escapeRegExp(string) { string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); } // $& means the whole matched string
+
 exports.regex = class {
     constructor(pattern, flags = '', escape = false) {
         this.pattern = pattern;
@@ -22,4 +24,4 @@ exports.regex = class {
     }
 };
 
-exports.escapeRegExp = string => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
+exports.escapeRegExp = escapeRegExp;
