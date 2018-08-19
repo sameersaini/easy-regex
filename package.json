@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/sameersaini/easy-regex/issues"
   },
+  "keywords": [
+    "regex",
+    "regular expression"
+  ],
   "homepage": "https://github.com/sameersaini/easy-regex#readme",
   "dependencies": {
     "eslint": "^5.4.0",
