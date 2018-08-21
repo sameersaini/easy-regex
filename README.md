@@ -26,3 +26,9 @@ r.test(string) // method that tests for a match in a string. It returns true or 
 ```js
 re.escape(string); // Escaping user input that is to be treated as a literal string within a regular expression—that would otherwise be mistaken for a special character
 ```
+
+### To read more about regular expressions
+
+* [Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+* [Eloquent Javascript](https://eloquentjavascript.net/09_regexp.html)
+* [Codeburst](https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a)
