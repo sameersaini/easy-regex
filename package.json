@@ -1,6 +1,6 @@
 {
   "name": "regex-easy",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "simple regular expression utility for node",
   "main": "index.js",
   "scripts": {
