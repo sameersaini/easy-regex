@@ -1,4 +1,4 @@
-# easy-regex
+# regex-easy
 
 ## Simple and easy regular expression utility for node
 
@@ -10,7 +10,7 @@ $ npm i --save easy-regex
 In Node.js:
 ```js
 // Load the package
-let re = require('easy-regex');
+let re = require('regex-easy');
 ```
 
 Usage
