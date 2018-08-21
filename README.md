@@ -5,7 +5,7 @@
 Using npm:
 ```shell
 $ npm i -g npm
-$ npm i --save easy-regex
+$ npm i --save regex-easy
 ```
 In Node.js:
 ```js
