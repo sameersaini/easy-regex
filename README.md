@@ -1,5 +1,3 @@
-# regex-easy
-
 ## Simple and easy regular expression utility for node
 
 Using npm:
