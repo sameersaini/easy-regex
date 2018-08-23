@@ -48,7 +48,7 @@ Pull requests are always welcome. For bugs and feature requests, [please create 
 Running and reviewing unit tests is a great way to get familiarized with a library and its API. You can install dependencies and run tests with the following command:
 
 ```sh
-$ npm i --save regex-easy && npm test
+$ npm i --save regex-easy && cd node_modules/regex-easy/ && npm test && cd ../../
 ```
 
 </details>
