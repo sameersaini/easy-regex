@@ -32,3 +32,32 @@ re.escape(string); // Escaping user input that is to be treated as a literal str
 * [Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 * [Eloquent Javascript](https://eloquentjavascript.net/09_regexp.html)
 * [Codeburst](https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a)
+
+## About
+
+<details>
+<summary><strong>Contributing</strong></summary>
+
+Pull requests are always welcome. For bugs and feature requests, [please create an issue](https://github.com/sameersaini/easy-regex/issues/new).
+
+</details>
+
+<details>
+<summary><strong>Running Tests</strong></summary>
+
+Running and reviewing unit tests is a great way to get familiarized with a library and its API. You can install dependencies and run tests with the following command:
+
+```sh
+$ npm i --save regex-easy && npm test
+```
+
+</details>
+
+### Author
+
+**Sameer Saini**
+
+Let's connect
+
+* [LinkedIn Profile](https://www.linkedin.com/in/sameer-saini-65463079/)
+* [GitHub Profile](https://github.com/sameersaini)
